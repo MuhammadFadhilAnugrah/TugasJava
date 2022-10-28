@@ -1,0 +1,11 @@
+public static void main(String[]args){
+		class GettersandSetter{
+			private int x;
+			public int getx(){
+				return x;
+			}
+			public static void setX (int x){
+				this.x;
+			}
+		}
+	}
